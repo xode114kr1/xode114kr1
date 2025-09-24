@@ -1,6 +1,6 @@
 ## Hi there 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xode114kr1)](https://solved.ac/xode114kr1/)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmin-0&count_bg=%23555555&title_bg=%23323232&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xode114kr1&theme=dark&show_icons=true)
 <!--
 **xode114kr1/xode114kr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
